@@ -10,3 +10,8 @@ header {
   font-size: 3rem;
   padding: 2em;
 }
+
+#aside-updates::after {
+  content: "\a";
+  white-space: pre;
+}
