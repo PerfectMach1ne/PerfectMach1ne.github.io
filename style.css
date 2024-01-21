@@ -6,6 +6,6 @@ font-family: 'Courier New', Courier, monospace;
 header {
   text-align: center;
   color: #ff0000;
-  padding: 30px;
-  font-size: large;
+  font-size: 3rem;
+  padding: 2em;
 }
