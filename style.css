@@ -1,6 +1,9 @@
 html {
 font-family: 'Courier New', Courier, monospace;
   background-color: black;
+}
+
+.alice {
   color: aliceblue;
 }
 
@@ -9,9 +12,4 @@ header {
   color: #ff0000;
   font-size: 3rem;
   padding: 2em;
-}
-
-#aside-updates::after {
-  content: "\a";
-  white-space: pre;
 }
