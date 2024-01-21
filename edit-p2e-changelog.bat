@@ -1,0 +1,1 @@
+code -g D:\P2E_github_pages\PerfectMach1ne.github.io\index.html:43:6 D:\P2E_github_pages\PerfectMach1ne.github.io\edit-p2e-changelog.bat:1:65
