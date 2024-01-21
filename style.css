@@ -1,0 +1,9 @@
+html {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+}
+
+header {
+  text-align: center;
+  color: #ff0000;
+}
