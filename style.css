@@ -6,4 +6,6 @@ html {
 header {
   text-align: center;
   color: #ff0000;
+  padding: 30px;
+  font-size: large;
 }
