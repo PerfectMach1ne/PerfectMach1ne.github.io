@@ -3,8 +3,9 @@ font-family: 'Courier New', Courier, monospace;
   background-color: black;
 }
 
-.alice {
+.alice-updates {
   color: aliceblue;
+  white-space: pre;
 }
 
 header {
