@@ -6,7 +6,7 @@ function getElementByXPath(path) {
 const latestAside = document.getElementById("latest-aside");
 const latestHeader = getElementByXPath("//header[@id=\"latest-header\"]/strong");
 let latestVersion = latestAside.innerHTML.split('\n')[0].substring(2);
-latestHeader.innerHTML = latestVersion  ;
+latestHeader.innerHTML = latestVersion;
 console.log(latestHeader.innerHTML)
 
 // console.log(latest.innerHTML.replace(/<\/?[^>]+(>|$)/g, ""))
