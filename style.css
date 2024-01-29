@@ -1,6 +1,27 @@
 html {
-font-family: 'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
   background-color: black;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  column-gap: 25px;
+}
+
+button {
+  border: 0;
+  line-height: 3;
+  padding: 0 15px; 
+  background-color: #184e4e;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
+
+button a {
+  text-decoration: none;
+  color: aliceblue;
 }
 
 .alice-updates {
@@ -13,4 +34,8 @@ header {
   color: #ff0000;
   font-size: 3rem;
   padding: 2em;
+}
+
+.hideme {
+  visibility: hidden;
 }
