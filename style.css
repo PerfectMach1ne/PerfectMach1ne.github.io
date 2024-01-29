@@ -39,3 +39,7 @@ header {
 .hideme {
   visibility: hidden;
 }
+
+#latest-aside {
+  color: lime;
+}
