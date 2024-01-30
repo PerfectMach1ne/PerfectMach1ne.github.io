@@ -37,7 +37,38 @@ header {
 }
 
 span#exeden {
+  font-weight: bold;
   color: #ff0000;
+}
+
+span#indev {
+  font-weight: bold;
+  color: #9900ff;
+}
+
+span#prealpha {
+  font-weight: bold;
+  color: #4a86e8;
+}
+
+span#alpha {
+  font-weight: bold;
+  color: #ff00ff;
+}
+
+span#beta {
+  font-weight: bold;
+  color: #ff9900;
+}
+
+span#releasecandidate {
+  font-weight: bold;
+  color: #00ff00;
+}
+
+span#abaeternitate {
+  font-weight: bold;
+  color: #ffff00;
 }
 
 #latest-aside {
