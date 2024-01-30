@@ -36,10 +36,16 @@ header {
   padding: 2em;
 }
 
-.hideme {
-  visibility: hidden;
+span#exeden {
+  color: #ff0000;
 }
 
 #latest-aside {
   color: lime;
+  background-color: #14026b;
+}
+
+
+.hideme {
+  visibility: hidden;
 }
