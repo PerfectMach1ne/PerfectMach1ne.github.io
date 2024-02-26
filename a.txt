@@ -1,0 +1,11 @@
+
+    <span id="latest-aside">◑ co-re exeden_0.3.3#0034 (04-26).02.24
+    * organizational architecture decisions.
+    * updated the #.æ.pathway_to_eden_ structure.
+    * updated the p2e storyline flow + connection graph.
+    + added a playlist with songs related to each expedition of p2e 0 æ !!
+    </span>
+    <div class="hideme">
+    <s>◑ Co-Re Exeden_0.3.1#0035 26.02.24
+    ? new addition template who dis⛛</s>
+    </div> 
