@@ -44,10 +44,6 @@ class ContentAddersSingleton {
     footer.innerHTML = `
         <div class="cooler-footer">
           <footer class="footer-display">
-            <img 
-              src="assets/images/neocities.png"
-              onerror="this.src='../assets/images/neocities.png';"
-              alt="Neocities logo with a caption &quot;Powered by Neocities&quot;">
             <p>02.2024 - 09.2024, by LVSA</p>
           </footer>
         </div>
